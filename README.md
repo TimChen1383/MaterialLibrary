@@ -1,6 +1,6 @@
 # MaterialLibrary
 - Some simple/common materials which can be used in daily project directly
-- support substrate
+- support Substrate (some material were made with substrate)
 - Keep updating......
 
 ![group1](https://github.com/user-attachments/assets/fbde6385-78a6-4814-bf0e-d77982f32594)
