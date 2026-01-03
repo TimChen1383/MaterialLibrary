@@ -1,9 +1,13 @@
-# MaterialLibrary
+# Material Library
 - Some simple/common materials which can be used in daily project directly
 - Unreal Engine 5.5 and above
 - Demo level: Plugins/MaterialLibrary/Demo_Materials
 - Need to enable Substrate
 - Keep updating......
+
+
+[Material](#Material)
+
 
 ## Material
 <img width="1786" height="1788" alt="HighresScreenshot00000" src="https://github.com/user-attachments/assets/ca833552-87fe-46cd-a2a7-7585092d0eb2" />
