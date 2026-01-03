@@ -22,15 +22,16 @@
 <img width="1786" height="1788" alt="HighresScreenshot00008" src="https://github.com/user-attachments/assets/a932ca17-4386-4b4f-a227-1d2095991b80" />
 
 ## StylizedMaterial
-<img width="1265" height="722" alt="Comp" src="https://github.com/user-attachments/assets/87bc7e73-fc5e-45b4-8154-4416bf1235cf" />
+<img width="1265" height="722" alt="523869735-87bc7e73-fc5e-45b4-8154-4416bf1235cf" src="https://github.com/user-attachments/assets/1c0ec043-60b2-44e7-8e5f-254b4389819e" />
 
-<img width="3821" height="894" alt="001" src="https://github.com/user-attachments/assets/f04f7e46-46f8-4895-aa46-6113802ce505" />
-<img width="3821" height="894" alt="002" src="https://github.com/user-attachments/assets/7ddf1d50-5a5a-4108-8474-52a9786f6f3c" />
-<img width="3821" height="894" alt="003" src="https://github.com/user-attachments/assets/5ec9f460-650c-4951-9991-a125bc68cdca" />
-<img width="3821" height="894" alt="004" src="https://github.com/user-attachments/assets/76f51ef1-7532-4c19-9a8b-067de08d7efe" />
-<img width="3821" height="894" alt="005" src="https://github.com/user-attachments/assets/1895a976-77dc-49c2-b2c5-5116738eea28" />
-<img width="3821" height="894" alt="006" src="https://github.com/user-attachments/assets/45dffa27-0663-4055-bc5d-d76913433c4a" />
-<img width="3821" height="894" alt="007" src="https://github.com/user-attachments/assets/5f99196f-bf38-4dc3-9adf-5eeaa9b8a6a1" />
+<img width="3821" height="894" alt="523867220-f04f7e46-46f8-4895-aa46-6113802ce505" src="https://github.com/user-attachments/assets/ee2bf7b5-cc93-4e11-a06d-51fd05862e3c" />
+<img width="3821" height="894" alt="523867842-1895a976-77dc-49c2-b2c5-5116738eea28" src="https://github.com/user-attachments/assets/8fc7a2ae-e2b2-48ef-b17a-01a78fc211fa" />
+<img width="3821" height="894" alt="523867985-5f99196f-bf38-4dc3-9adf-5eeaa9b8a6a1" src="https://github.com/user-attachments/assets/ec724863-fdb2-4dad-a2b9-ef07a69f4682" />
+<img width="3821" height="894" alt="523867910-45dffa27-0663-4055-bc5d-d76913433c4a" src="https://github.com/user-attachments/assets/46a6d38b-6c82-4085-89bb-25c036d2b7a8" />
+<img width="3821" height="894" alt="523867772-76f51ef1-7532-4c19-9a8b-067de08d7efe" src="https://github.com/user-attachments/assets/a28d65bc-c71e-4a23-97ab-d9635a875854" />
+<img width="3821" height="894" alt="523867687-5ec9f460-650c-4951-9991-a125bc68cdca" src="https://github.com/user-attachments/assets/12717624-c119-45fa-acc8-41f2bdfe70ee" />
+<img width="3821" height="894" alt="523867588-7ddf1d50-5a5a-4108-8474-52a9786f6f3c" src="https://github.com/user-attachments/assets/40d82970-5892-4ab0-b9f0-59af0795e3b5" />
+
 
 
 ## Post Process Material
