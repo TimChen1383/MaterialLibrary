@@ -5,9 +5,9 @@
 - Need to enable Substrate
 - Keep updating......
 
-
-[Material](#Material)
-[Stylized Material](#StylizedMaterial)
+## Categories
+- [Material](#Material)
+- [Stylized Material](#StylizedMaterial)
 
 
 ## Material
