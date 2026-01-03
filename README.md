@@ -7,6 +7,7 @@
 
 
 [Material](#Material)
+[Stylized Material](#StylizedMaterial)
 
 
 ## Material
