@@ -8,6 +8,7 @@
 ## Categories
 - [Material](#Material)
 - [StylizedMaterial](#StylizedMaterial)
+- [PostProcessMaterial](#PostProcessMaterial)
 
 
 ## Material
@@ -34,7 +35,7 @@
 
 
 
-## Post Process Material
+## PostProcessMaterial
 
 
 
