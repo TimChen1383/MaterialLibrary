@@ -1,8 +1,10 @@
 # Material Library
-- Common materials which can be used in daily project directly
-- Unreal Engine 5.5 and above
-- Demo levels: `Plugins/MaterialLibrary/Demo_Materials`, `Plugins/StylizedMaterialLibrary/Demo_StylizedMaterial`, `Plugins/PostProcessMaterialLibrary/Demo_PostProcessMaterial`
-- Need to enable Substrate
+Some common materials which can be used in daily project.
+- ***Supported Version*** : Unreal Engine 5.5 and above
+- ***Required Plugin*** : Need to enable Substrate
+- ***Material Demo Level*** : `Plugins/MaterialLibrary/Demo_Materials`
+- ***Stylized Material Demo Level*** : `Plugins/StylizedMaterialLibrary/Demo_StylizedMaterial`
+- ***Post Process Material Demo Level*** : `Plugins/PostProcessMaterialLibrary/Demo_PostProcessMaterial`
 - Keep updating......
 <img width="797" height="231" alt="Screenshot 2026-01-03 210938" src="https://github.com/user-attachments/assets/8c3ee8f7-db26-40e2-b839-0e2a5b477461" />
 
