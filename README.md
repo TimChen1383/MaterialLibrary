@@ -27,7 +27,11 @@ Some common materials which can be used in daily project.
 <img width="1786" height="1788" alt="HighresScreenshot00008" src="https://github.com/user-attachments/assets/a932ca17-4386-4b4f-a227-1d2095991b80" />
 
 ## StylizedMaterial
-<img width="1265" height="722" alt="523869735-87bc7e73-fc5e-45b4-8154-4416bf1235cf" src="https://github.com/user-attachments/assets/1c0ec043-60b2-44e7-8e5f-254b4389819e" />
+![Sketch](https://github.com/user-attachments/assets/de0451c4-a0f6-47d5-a0d5-396a1e684885)
+![Brush](https://github.com/user-attachments/assets/cf71f625-4f7e-42f0-985e-c62c476e6d3b)
+![Cel](https://github.com/user-attachments/assets/4f0d5dad-d9c9-47ac-b65e-b9739a53e2d1)
+![Comic](https://github.com/user-attachments/assets/80847bb1-360f-489a-b819-7b1127abdc5a)
+
 
 <img width="3821" height="894" alt="523867220-f04f7e46-46f8-4895-aa46-6113802ce505" src="https://github.com/user-attachments/assets/ee2bf7b5-cc93-4e11-a06d-51fd05862e3c" />
 <img width="3821" height="894" alt="523867842-1895a976-77dc-49c2-b2c5-5116738eea28" src="https://github.com/user-attachments/assets/8fc7a2ae-e2b2-48ef-b17a-01a78fc211fa" />
